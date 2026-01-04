@@ -10,7 +10,7 @@
 
 **"Decoding the mysteries of human behavior through data."**
 
-I am a **Master of Data Science** candidate and **Research Analyst** at Ipsos.
+I am an **Research Analyst** and **Master of Data Science** candidate.
 My work bridges the gap between **Behavioral Psychology** and **Quantitative Analytics**.
 I leverage machine learning and statistical rigor to translate complex human data into actionable business strategies.
 
