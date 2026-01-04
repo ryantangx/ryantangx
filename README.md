@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=RYAN%20TANG&fontSize=80&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=180&section=header&text=RYAN%20TANG&fontSize=80&fontColor=ffffff)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
