@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/master/images/github-banner-01.gif" width="100%" alt="Data Network Banner">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RYAN%20TANG&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%9C%96%20Psychology&descAlignY=55&descAlign=62)
 
 <br>
 
 # RYAN TANG
-### Data Science ✖ Psychology
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
 
