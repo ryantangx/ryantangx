@@ -1,14 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Master+of+Data+Science+Candidate;Research+Analyst+%40+Ipsos;Decoding+Human+Behavior+with+Data" alt="Typing SVG" />
-</a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=RYAN%20TANG&fontSize=80&animation=fadeIn&fontAlignY=35)
 
-<br>
-
-# RYAN TANG
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
 <br>
 
@@ -16,9 +10,9 @@
 
 **"Decoding the mysteries of human behavior through data."**
 
-[cite_start]I am a **Master of Data Science** candidate and **Research Analyst** at Ipsos[cite: 17, 33].
-[cite_start]My work bridges the gap between **Behavioral Psychology** and **Quantitative Analytics**[cite: 11].
-[cite_start]I leverage machine learning and statistical rigor to translate complex human data into actionable business strategies[cite: 12].
+I am a **Master of Data Science** candidate and **Research Analyst** at Ipsos.
+My work bridges the gap between **Behavioral Psychology** and **Quantitative Analytics**.
+I leverage machine learning and statistical rigor to translate complex human data into actionable business strategies.
 
 [**Research Analyst @ Ipsos**](https://www.linkedin.com/in/ryan-tang-92b96b229/)
 [**M.DS Candidate @ HELP University**](https://university.help.edu.my/)
@@ -53,9 +47,9 @@
 
 | **Project Category** | **Tech Used** | **Description** |
 | :--- | :---: | :--- |
-| **Market Trend Analysis** | `Python` `Excel` | [cite_start]Analyzing consumer behavior and competitor strategies to drive business decisions[cite: 36]. |
-| **Behavioral Research** | `R` `SPSS` | [cite_start]**[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior[cite: 70]. |
-| **Data Visualization** | `Power BI` | [cite_start]Transforming raw datasets into interactive dashboards for diverse stakeholders[cite: 27, 62]. |
+| **Market Trend Analysis** | `Python` `Excel` | Analyzing consumer behavior and competitor strategies to drive business decisions. |
+| **Behavioral Research** | `R` `SPSS` | **[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior. |
+| **Data Visualization** | `Power BI` | Transforming raw datasets into interactive dashboards for diverse stakeholders. |
 
 <br>
 
@@ -65,12 +59,12 @@
 
 *"Continuous Improvement"*
 
-[cite_start]Currently seeking to pivot fully into an **Analytics / Data Science** role[cite: 14].
-[cite_start]I am expanding my expertise in **Machine Learning (ML)** and **AI** to apply predictive modeling to real-world problems[cite: 13].
+Currently seeking to pivot fully into an **Analytics / Data Science** role.
+I am expanding my expertise in **Machine Learning (ML)** and **AI** to apply predictive modeling to real-world problems.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
 <br>
 
