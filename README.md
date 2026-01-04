@@ -14,9 +14,6 @@ I am a **Master of Data Science** candidate and **Research Analyst** at Ipsos.
 My work bridges the gap between **Behavioral Psychology** and **Quantitative Analytics**.
 I leverage machine learning and statistical rigor to translate complex human data into actionable business strategies.
 
-[**Research Analyst @ Ipsos**](https://www.linkedin.com/in/ryan-tang-92b96b229/)
-[**M.DS Candidate @ HELP University**](https://university.help.edu.my/)
-
 <br>
 
 ---
