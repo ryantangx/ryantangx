@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RYAN%20TANG&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%9C%96%20Psychology&descAlignY=55&descAlign=62)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Master+of+Data+Science+Candidate;Research+Analyst+%40+Ipsos;Decoding+Human+Behavior+with+Data" alt="Typing SVG" />
+</a>
 
 <br>
 
