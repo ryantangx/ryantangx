@@ -44,7 +44,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 
 | **Project Category** | **Tech Used** | **Description** |
 | :--- | :---: | :--- |
-| **Financial Forecasting (RNN)** | `TensorFlow` `Python` | **[View Project]([https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting])**<br>Comparative analysis of RNN, LSTM, and GRU architectures on 10 years of stock data. |
+| **[Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | `TensorFlow` `Python` | Comparative analysis of RNN, LSTM, and GRU architectures on 10 years of stock data. |
 | **Market Trend Analysis** | `Python` `Excel` | Analyzing consumer behavior and competitor strategies to drive business decisions. |
 | **Behavioral Research** | `R` `SPSS` | **[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior. |
 | **Data Visualization** | `Power BI` | Transforming raw datasets into interactive dashboards for diverse stakeholders. |
