@@ -44,10 +44,11 @@ I leverage machine learning and statistical rigor to translate complex human dat
 
 | **Project Category** | **Tech Used** | **Description** |
 | :--- | :--- | :--- |
-| **[Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Comparative analysis of RNN, LSTM, and GRU architectures on 10 years of stock data. |
-| **Market Trend Analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Analyzing consumer behavior and competitor strategies to drive business decisions. |
-| **Behavioral Research** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-003C71?style=flat-square&logo=ibm&logoColor=white) | **[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior. |
-| **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Transforming raw datasets into interactive dashboards for diverse stakeholders. |
+| **📈 [Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Comparative analysis of RNN, LSTM, and GRU architectures on 10 years of stock data. |
+| **⌚ [Smart Device Usage Analysis](https://github.com/ryantangx/Bellabeat-Smart-Device-Usage-Analysis)** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Strategic analysis of non-Bellabeat consumer data to identify usage trends and inform marketing strategy. |
+| **🛍️ Market Trend Analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Analyzing consumer behavior and competitor strategies to drive business decisions. |
+| **🧠 Behavioral Research** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-003C71?style=flat-square&logo=ibm&logoColor=white) | **[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior. |
+| **📊 Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Transforming raw datasets into interactive dashboards for diverse stakeholders. |
 
 <br>
 
