@@ -42,14 +42,27 @@ I leverage machine learning and statistical rigor to translate complex human dat
 
 *Selected works demonstrating predictive modeling and behavioral analytics.*
 
-| **Project Category** | **Tech Used** | **Description** |
+#### 🐍 Python: Machine Learning & Predictive Analytics
+
+| **Project** | **Architecture** | **Description** |
 | :--- | :--- | :--- |
-| **🎯 [Creator Monetization Clustering](https://github.com/ryantangx/Creator-Monetization-Archetypes)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | Applied K-Means clustering to segment social media creators into actionable personas for targeted monetization and retention strategies. |
-| **📈 [Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | Comparative analysis of RNN, LSTM, and GRU architectures on 10 years of stock data. |
-| **⌚ [Smart Device Usage Analysis](https://github.com/ryantangx/Bellabeat-Smart-Device-Usage-Analysis)** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Strategic analysis of non-Bellabeat consumer data to identify usage trends and inform marketing strategy. |
-| **🛍️ Market Trend Analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Analyzing consumer behavior and competitor strategies to drive business decisions. |
-| **🧠 Behavioral Research** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-003C71?style=flat-square&logo=ibm&logoColor=white) | **[Publication]** *Make it a habit:* The effect of nudges on habitual handwashing behavior. |
-| **📊 Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Transforming raw datasets into interactive dashboards for diverse stakeholders. |
+| **💼 [Employee Attrition Prediction](https://github.com/ryantangx/Employee-Attrition-Prediction)** | **Random Forest Classifier** | Applied the PACE framework to achieve 99% precision in identifying turnover risks and providing strategic retention roadmaps. |
+| **📈 [Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | **RNN, LSTM, GRU** | A rigorous comparative analysis of recurrent architectures on 10 years of stock data to predict price direction. |
+| **🎯 [Creator Monetization Clustering](https://github.com/ryantangx/Creator-Monetization-Archetypes)** | **K-Means Clustering** | Segmented social media creators into actionable personas to drive targeted monetization and retention strategies. |
+| **🛍️ Market Trend Analysis** | **Exploratory Analytics** | Analyzed consumer behavior and competitor strategies to drive data-informed business decisions. |
+
+#### 📊 R: Statistical Research & Behavioral Science
+
+| **Project** | **Methodology** | **Description** |
+| :--- | :--- | :--- |
+| **⌚ [Smart Device Usage Analysis](https://github.com/ryantangx/Bellabeat-Smart-Device-Usage-Analysis)** | **Descriptive & Inferential Stats** | Strategic analysis of consumer usage trends to inform growth and marketing strategies for smart device wellness products. |
+| **🧠 Behavioral Research** | **Statistical Modeling** | **[Publication]** *Make it a habit:* Investigating the longitudinal effect of nudges on habitual handwashing behavior. |
+
+#### 📈 BI & Data Visualization
+
+| **Project** | **Tooling** | **Description** |
+| :--- | :--- | :--- |
+| **📊 Data Visualization** | **Power BI** | Transforming fragmented datasets into interactive executive dashboards for diverse business stakeholders. |
 
 <br>
 
