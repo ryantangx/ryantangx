@@ -47,7 +47,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | **Project** | **Architecture** | **Description** |
 | :--- | :--- | :--- |
 | **💼 [Employee Attrition Prediction](https://github.com/ryantangx/Employee-Attrition-Prediction)** | **Random Forest Classifier** | Applied the PACE framework to achieve 99% precision in identifying turnover risks and providing strategic retention roadmaps. |
-| **📈 [Financial Forecasting (RNN)](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | **RNN, LSTM, GRU** | A rigorous comparative analysis of recurrent architectures on 10 years of stock data to predict price direction. |
+| **📈 [Financial Forecasting](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | **RNN, LSTM, GRU** | A rigorous comparative analysis of recurrent architectures on 10 years of stock data to predict price direction. |
 | **🎯 [Creator Monetization Clustering](https://github.com/ryantangx/Creator-Monetization-Archetypes)** | **K-Means Clustering** | Segmented social media creators into actionable personas to drive targeted monetization and retention strategies. |
 | **🛍️ Market Trend Analysis** | **Exploratory Analytics** | Analyzed consumer behavior and competitor strategies to drive data-informed business decisions. |
 
