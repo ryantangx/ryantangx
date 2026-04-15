@@ -56,7 +56,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | **Project** | **Methodology** | **Description** |
 | :--- | :--- | :--- |
 | **⌚ [Smart Device Usage Analysis](https://github.com/ryantangx/Bellabeat-Smart-Device-Usage-Analysis)** | **Descriptive & Inferential Stats** | Strategic analysis of consumer usage trends to inform growth and marketing strategies for smart device wellness products. |
-| **🧠 Behavioral Research** | **Statistical Modeling** | **[Publication]** *Make it a habit:* Investigating the longitudinal effect of nudges on habitual handwashing behavior. |
+| **🧠 [Handwashing Habit Formation](https://github.com/ryantangx/Behavioral-Analytics-Handwashing)** | **One-Way ANOVA & Longitudinal Analysis** | **[Publication]** Investigated digital nudge efficacy on habit formation using a between-subjects experimental design and high-reliability psychometrics. |
 
 #### 📈 BI & Data Visualization
 
