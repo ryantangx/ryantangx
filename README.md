@@ -10,7 +10,7 @@
 
 **"Decoding the mysteries of human behavior through data."**
 
-I am an **Research Analyst** and **Master of Data Science** candidate.
+I am an **Senior Project Executive** and **Master of Data Science** candidate.
 My work bridges the gap between **Behavioral Psychology** and **Quantitative Analytics**.
 I leverage machine learning and statistical rigor to translate complex human data into actionable business strategies.
 
