@@ -62,6 +62,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | **Project** | **Tooling** | **Description** |
 | :--- | :--- | :--- |
 | **📊 [Competitor Sales & Market Share Analysis](https://github.com/ryantangx/Competitor-Sales-Analysis)** | **Power BI** | Developed an interactive BI solution with time intelligence, competitor benchmarking, and AI-driven root cause diagnostics. |
+| **🏥 [Hospital Operational Efficiency & Cost Analysis](https://github.com/ryantangx/Healthcare-Efficiency-Analysis)** | **Power BI** | Evaluated 26,000+ patient records across 151 hospitals using outlier quadrant mapping and AI root cause diagnostics to optimize LOS and cost drivers. |
 
 <br>
 
