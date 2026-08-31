@@ -63,6 +63,8 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | :--- | :--- | :--- |
 | **📊 [Competitor Sales & Market Share Analysis](https://github.com/ryantangx/Competitor-Sales-Analysis)** | **Power BI** | Developed an interactive BI solution with time intelligence, competitor benchmarking, and AI-driven root cause diagnostics. |
 | **🏥 [Hospital Operational Efficiency & Cost Analysis](https://github.com/ryantangx/Healthcare-Efficiency-Analysis)** | **Power BI** | Evaluated 26,000+ patient records across 151 hospitals using outlier quadrant mapping and AI root cause diagnostics to optimize LOS and cost drivers. |
+| **👥 [Workforce Attrition & Demographics Intelligence](https://github.com/ryantangx/Atlas-Labs-HR-Analytics)** | **Tableau** | Built an executive HR dashboard tracking 1,470 employees to isolate turnover drivers across travel demand, age cohorts, and tenure milestones. |
+| **📦 [Retail Supply Chain & Inventory Analytics](https://github.com/ryantangx/Retail-Supply-Chain-Analytics)** | **Tableau** | Integrated multi-source logistics and inventory data to evaluate carrier delays against historical baselines, optimize carrying costs, and balance supply vs. demand. |
 
 <br>
 
