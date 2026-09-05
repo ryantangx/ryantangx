@@ -66,6 +66,14 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | **👥 [Workforce Attrition & Demographics Intelligence](https://github.com/ryantangx/Atlas-Labs-HR-Analytics)** | **Tableau** | Built an executive HR dashboard tracking 1,470 employees to isolate turnover drivers across travel demand, age cohorts, and tenure milestones. |
 | **📦 [Retail Supply Chain & Inventory Analytics](https://github.com/ryantangx/Retail-Supply-Chain-Analytics)** | **Tableau** | Integrated multi-source logistics and inventory data to evaluate carrier delays against historical baselines, optimize carrying costs, and balance supply vs. demand. |
 
+#### 🗄️ SQL: Data Modeling & Business Analytics
+
+| **Project** | **Architecture / Concepts** | **Description** |
+| :--- | :--- | :--- |
+| **🦄 [Unicorn Companies & Industry Trends](https://github.com/ryantangx/Analyzing-Unicorn-Companies)** | **CTEs, Multi-Table Joins, Date Extraction** | Analyzed 2019–2021 unicorn emergence rates and tracked average valuation trends across high-growth sectors. |
+| **🏍️ [Motorcycle Part Sales Analysis](https://github.com/ryantangx/Analyzing-Motorcycle-Part-Sales)** | **Aggregation, Date Formatting, Cohort Filtering** | Modeled net revenue by deducting payment processing fees across product lines, months, and warehouse facilities. |
+| **⚙️ [Manufacturing Process Evaluation](https://github.com/ryantangx/Evaluating-A-Manufacturing-Process)** | **Window Functions, Named Frames, Nested Queries** | Built an automated 3-sigma UCL/LCL quality monitoring alert system across rolling 5-part batches. |
+
 <br>
 
 ---
