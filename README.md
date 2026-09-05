@@ -68,7 +68,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 
 #### 🗄️ SQL: Data Modeling & Business Analytics
 
-| **Project** | **Architecture / Concepts** | **Description** |
+| **Project** | **Concepts** | **Description** |
 | :--- | :--- | :--- |
 | **🦄 [Unicorn Companies & Industry Trends](https://github.com/ryantangx/Analyzing-Unicorn-Companies)** | **CTEs, Multi-Table Joins, Date Extraction** | Analyzed 2019–2021 unicorn emergence rates and tracked average valuation trends across high-growth sectors. |
 | **🏍️ [Motorcycle Part Sales Analysis](https://github.com/ryantangx/Analyzing-Motorcycle-Part-Sales)** | **Aggregation, Date Formatting, Cohort Filtering** | Modeled net revenue by deducting payment processing fees across product lines, months, and warehouse facilities. |
