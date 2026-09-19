@@ -42,15 +42,18 @@ I leverage machine learning and statistical rigor to translate complex human dat
 
 *Selected works demonstrating predictive modeling and behavioral analytics.*
 
-#### 🐍 Python: Machine Learning & Predictive Analytics
+#### 🐍 Python
 
 | **Project** | **Architecture** | **Description** |
 | :--- | :--- | :--- |
+| **🌤️ [London Climate & Temperature Forecasting](https://github.com/ryantangx/London-Climate-Weather-Analysis)** | **Gradient Boosting, Decision Trees, Linear Regression** | Benchmarked multiple regression models across 40+ years of climate telemetry with MLflow experiment tracking, achieving an optimal test RMSE of 2.80°C. |
 | **💼 [Employee Attrition Prediction](https://github.com/ryantangx/Employee-Attrition-Prediction)** | **Random Forest Classifier** | Applied the PACE framework to achieve 99% precision in identifying turnover risks and providing strategic retention roadmaps. |
 | **🎯 [Creator Monetization Clustering](https://github.com/ryantangx/Creator-Monetization-Archetypes)** | **K-Means Clustering** | Segmented social media creators into actionable personas to drive targeted monetization and retention strategies. |
-| **📈 [Financial Forecasting](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | **RNN, LSTM, GRU** | A rigorous comparative analysis of recurrent architectures on 10 years of stock data to predict price direction. |
+| **📈 [Financial Forecasting](https://github.com/ryantangx/Comparative-Analysis-of-RNN-LSTM-and-GRU-for-Financial-Forecasting)** | **Time-Series Forecasting** | A rigorous comparative analysis of recurrent architectures on 10 years of stock data to predict price direction. |
+| **⚡ [Enterprise Energy ETL Data Pipeline](https://github.com/ryantangx/Enterprise-Energy-ETL-Pipeline)** | **ETL Pipeline** | Built an automated, multi-format ETL pipeline to ingest nested JSON and tabular sales records, execute schema normalization, and export to columnar Parquet and CSV storage sinks. |
+| **🛒 [Retail Supply Chain ETL Pipeline](https://github.com/ryantangx/Retail-ETL-Pipeline)** | **ETL Pipeline** | Developed a production-grade ETL pipeline merging retail sales with macroeconomic indicators, enforcing statistical imputation, and generating monthly sales benchmarks. |
 
-#### 📊 R: Statistical Research & Behavioral Science
+#### 📊 R
 
 | **Project** | **Methodology** | **Description** |
 | :--- | :--- | :--- |
@@ -66,7 +69,7 @@ I leverage machine learning and statistical rigor to translate complex human dat
 | **👥 [Workforce Attrition & Demographics Intelligence](https://github.com/ryantangx/Atlas-Labs-HR-Analytics)** | **Tableau** | Built an executive HR dashboard tracking 1,470 employees to isolate turnover drivers across travel demand, age cohorts, and tenure milestones. |
 | **📦 [Retail Supply Chain & Inventory Analytics](https://github.com/ryantangx/Retail-Supply-Chain-Analytics)** | **Tableau** | Integrated multi-source logistics and inventory data to evaluate carrier delays against historical baselines, optimize carrying costs, and balance supply vs. demand. |
 
-#### 🗄️ SQL: Data Modeling & Business Analytics
+#### 🗄️ SQL
 
 | **Project** | **Concepts** | **Description** |
 | :--- | :--- | :--- |
